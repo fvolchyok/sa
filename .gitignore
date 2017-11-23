@@ -38,3 +38,9 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+/.vs/config/applicationhost.config
+/.vs/StudentAttendance/v15/Server/sqlite3/db.lock
+/.vs/StudentAttendance/v15/Server/sqlite3/storage.ide
+/.vs/StudentAttendance/v15/Server/sqlite3/storage.ide-shm
+/.vs/StudentAttendance/v15/Server/sqlite3/storage.ide-wal
+/StudentAttendance/Properties/launchSettings.json
