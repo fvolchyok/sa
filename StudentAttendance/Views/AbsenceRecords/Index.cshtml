@@ -1,0 +1,79 @@
+@model StudentAttendance.Models.AbsenceRecordTableViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="display: table; width: 100%; margin-top: 50px; margin-bottom: 30px;">
+    <p style="display: table-cell; text-align: center;">
+        <a asp-action="Index" 
+           asp-route-year="@Model.previousMonth.Year" 
+           asp-route-month="@Model.previousMonth.Month">Previous month</a>
+    </p>
+
+    <h2 style="display: table-cell; text-align: center;">@Model.CurrentMonthName</h2>
+
+    <p style="display: table-cell; text-align: center;">
+        <a asp-action="Index" 
+           asp-route-year="@Model.nextMonth.Year" 
+           asp-route-month="@Model.nextMonth.Month">Next month</a>
+    </p>
+</div>
+
+
+
+<table class="table">
+    <tbody>
+    <tr>
+        <td style="width: 15px; padding: 0;"></td>
+        @foreach (var date in Model.Days)
+        {
+            <td style="width: 15px; padding: 0;">
+                @date.Day
+            </td>
+        }
+    </tr>
+    @foreach (var student in Model.Students)
+    {
+        <tr>
+            <td style="height: 20px; width: 100px; padding: 0; ">
+                @student.Name
+            </td>
+            @foreach (var date in Model.Days)
+            {
+                <td style="padding: 0; height: 30px;">
+                    @{
+                        var absenceRecord = Model.FindAbsenceRecord(student.ID, date);
+                    }
+                    @if (absenceRecord != null)
+                    {
+                        <div style="display: flex; background: red; height: 25px; width: 15px;">
+                            <form style="display: flex;" asp-controller="AbsenceRecords" asp-action="Delete" method="post">
+                                <button type="submit" value="Create" style="border: 0; background: green; height: 25px; width: 15px;">
+                                    <input hidden="true" name="ID" value="@absenceRecord.ID"/>
+                                    H
+                                </button>
+                            </form>
+                        </div>
+                    }
+                    else
+                    {
+                        <div style="background: red; height: 25px; width: 15px;">
+                            <form style="display: flex" asp-controller="AbsenceRecords" asp-action="Create" method="post">
+                                <button type="submit" value="Create" style="border: 0; background: green; height: 25px; width: 15px;">
+                                    <input hidden="true" name="StudentID" value="@student.ID"/>
+                                    <input hidden="true" name="AbsenceDate" value="@date"/>
+                                </button>
+                            </form>
+                        </div>
+                    }
+                </td>
+            }
+        </tr>
+    }
+    </tbody>
+</table>
+
+<p>
+    <a asp-controller="Students" asp-action="Index">Students</a>
+</p>

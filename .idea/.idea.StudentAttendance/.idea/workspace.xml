@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9d518a-8c05-43ae-90f8-17893286f2c8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="41" column="43" lean-forward="false" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+              <folding>
+                <marker date="1509547063000" expanded="true" signature="61:98" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="100:718" ph="&lt;div.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="186:408" ph="&lt;p.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="247:399" ph="&lt;a.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="501:711" ph="&lt;p.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="562:702" ph="&lt;a.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="722:2880" ph="&lt;table.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="748:2871" ph="&lt;tbody.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="760:981" ph="&lt;tr.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="824:971" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="857:971" ph="{...}" />
+                <marker date="1509547063000" expanded="true" signature="880:961" ph="&lt;td.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="986:2858" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="1026:2858" ph="{...}" />
+                <marker date="1509547063000" expanded="true" signature="1041:2852" ph="&lt;tr.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="1058:1159" ph="&lt;td.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="1172:2838" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="1205:2838" ph="{...}" />
+                <marker date="1509547063000" expanded="true" signature="1236:2824" ph="&lt;td.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="1295:1406" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="1427:2802" ph="@..." />
+                <marker date="1509547063000" expanded="true" signature="1454:2096" ph="{...}" />
+                <marker date="1509547063000" expanded="true" signature="1501:2074" ph="&lt;div.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="1602:2043" ph="&lt;form.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="1730:2007" ph="&lt;button.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="2121:2802" ph="{...}" />
+                <marker date="1509547063000" expanded="true" signature="2168:2780" ph="&lt;div.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="2254:2749" ph="&lt;form.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="2381:2713" ph="&lt;button.../&gt;" />
+                <marker date="1509547063000" expanded="true" signature="2882:2955" ph="&lt;p.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsenceRecord.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecord.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <marker date="1509542414000" expanded="false" signature="6:65" ph="..." />
+                <marker date="1509542414000" expanded="true" signature="101:280" ph="{...}" />
+                <marker date="1509542414000" expanded="true" signature="134:278" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Edit.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <marker date="1509538225000" expanded="true" signature="41:77" ph="@..." />
+                <marker date="1509538225000" expanded="true" signature="118:753" ph="&lt;div.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="140:746" ph="&lt;div.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="171:735" ph="&lt;form.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="336:586" ph="&lt;div.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="599:719" ph="&lt;div.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="755:810" ph="&lt;div.../&gt;" />
+                <marker date="1509538225000" expanded="true" signature="812:899" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Details.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Details.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509538226000" expanded="true" signature="41:80" ph="@..." />
+                <marker date="1509538226000" expanded="true" signature="100:343" ph="&lt;div.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="142:336" ph="&lt;dl.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="177:249" ph="&lt;dt.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="258:326" ph="&lt;dd.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="344:460" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+              <folding>
+                <marker date="1509538226000" expanded="true" signature="54:91" ph="@..." />
+                <marker date="1509538226000" expanded="true" signature="109:159" ph="&lt;p.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="160:805" ph="&lt;table.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="186:360" ph="&lt;thead.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="202:347" ph="&lt;tr.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="223:311" ph="&lt;th.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="365:796" ph="&lt;tbody.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="373:783" ph="@..." />
+                <marker date="1509538226000" expanded="true" signature="402:783" ph="{...}" />
+                <marker date="1509538226000" expanded="true" signature="412:781" ph="&lt;tr.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="429:508" ph="&lt;td.../&gt;" />
+                <marker date="1509538226000" expanded="true" signature="521:767" ph="&lt;td.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsenceRecordsController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+              <folding>
+                <marker date="1509548273000" expanded="false" signature="6:294" ph="..." />
+                <marker date="1509548273000" expanded="true" signature="335:4381" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="392:4379" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="533:585" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="687:2595" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="781:920" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="937:1040" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="1435:1688" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="1548:1634" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="1770:2552" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="2249:2363" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="2432:2538" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="2686:2758" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="2768:2985" ph="/* POST: AbsenceRecords/Create ... */" />
+                <marker date="1509548273000" expanded="true" signature="3124:3411" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="3170:3349" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="3526:3911" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="3564:3627" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="3785:3848" ph="{...}" />
+                <marker date="1509548273000" expanded="true" signature="4094:4373" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+              <folding>
+                <marker date="1509468135000" expanded="false" signature="6:186" ph="..." />
+                <marker date="1509468135000" expanded="true" signature="227:843" ph="{...}" />
+                <marker date="1509468135000" expanded="true" signature="274:841" ph="{...}" />
+                <marker date="1509468135000" expanded="true" signature="317:364" ph="{...}" />
+                <marker date="1509468135000" expanded="true" signature="402:522" ph="{...}" />
+                <marker date="1509468135000" expanded="true" signature="562:666" ph="{...}" />
+                <marker date="1509468135000" expanded="true" signature="704:835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/ErrorViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509468104000" expanded="true" signature="49:215" ph="{...}" />
+                <marker date="1509468104000" expanded="true" signature="83:213" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsenceRecordTableViewModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <marker date="1509545862000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1509545862000" expanded="true" signature="83:964" ph="{...}" />
+                <marker date="1509545862000" expanded="true" signature="130:833" ph="{...}" />
+                <marker date="1509545862000" expanded="true" signature="489:826" ph="{...}" />
+                <marker date="1509545862000" expanded="true" signature="557:791" ph="{...}" />
+                <marker date="1509545862000" expanded="true" signature="699:777" ph="{...}" />
+                <marker date="1509545862000" expanded="true" signature="873:962" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeedData.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <marker date="1509542484000" expanded="false" signature="6:117" ph="..." />
+                <marker date="1509542484000" expanded="true" signature="153:1674" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="188:1672" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="266:1666" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="438:1656" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="502:566" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="624:688" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="747:811" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="1056:1192" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="1252:1388" ph="{...}" />
+                <marker date="1509542484000" expanded="true" signature="1448:1584" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecord.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Controllers/StudentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StudentAttendance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StudentAttendance/Startup.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Program.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.min.css" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/StudentAttendance.csproj" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecord.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml" />
+        <option value="$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="300" />
+    <option name="y" value="22" />
+    <option name="width" value="1133" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AbsenceRecords" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="StudentAttendance (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="StudentAttendance" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Students" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StudentAttendance/StudentAttendance.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StudentAttendance/bin/Debug/netcoreapp2.0/StudentAttendance.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9d518a-8c05-43ae-90f8-17893286f2c8" name="Default" comment="" />
+      <created>1509468114339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509468114339</updated>
+      <workItem from="1509468115587" duration="2670000" />
+      <workItem from="1509471080640" duration="3098000" />
+      <workItem from="1509475704470" duration="3484000" />
+      <workItem from="1509486745364" duration="104000" />
+      <workItem from="1509521489080" duration="15104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24460000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="300" y="22" width="1133" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27802294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30769232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs">
+            <startOffsets>
+              <startOffset value="588" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="777" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs</url>
+          <line>73</line>
+          <properties documentPath="$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs">
+            <startOffsets>
+              <startOffset value="2709" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2747" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs">
+            <startOffsets>
+              <startOffset value="747" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1040" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1509538840000" expanded="true" signature="72:460" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="128:458" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="254:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="54" />
+          <folding>
+            <marker date="1509542484000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1509542484000" expanded="true" signature="153:1674" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="188:1672" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="266:1666" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="438:1656" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="502:566" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="624:688" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="747:811" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1056:1192" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1252:1388" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1448:1584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509547063000" expanded="true" signature="61:98" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="100:718" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="186:408" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="247:399" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="501:711" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="562:702" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="722:2880" ph="&lt;table.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="748:2871" ph="&lt;tbody.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="760:981" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="824:971" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="857:971" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="880:961" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="986:2858" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1026:2858" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1041:2852" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1058:1159" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1172:2838" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1205:2838" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1236:2824" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1295:1406" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1427:2802" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1454:2096" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1501:2074" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1602:2043" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1730:2007" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2121:2802" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="2168:2780" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2254:2749" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2381:2713" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2882:2955" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <marker date="1509548273000" expanded="false" signature="6:294" ph="..." />
+            <marker date="1509548273000" expanded="true" signature="335:4381" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="392:4379" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="533:585" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="687:2595" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="781:920" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="937:1040" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1435:1688" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1548:1634" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1770:2552" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2249:2363" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2432:2538" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2686:2758" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2768:2985" ph="/* POST: AbsenceRecords/Create ... */" />
+            <marker date="1509548273000" expanded="true" signature="3124:3411" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3170:3349" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3526:3911" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3564:3627" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3785:3848" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="4094:4373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1509545862000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1509545862000" expanded="true" signature="83:964" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="130:833" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="489:826" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="557:791" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="699:777" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="873:962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509468104000" expanded="true" signature="49:215" ph="{...}" />
+            <marker date="1509468104000" expanded="true" signature="83:213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1509538840000" expanded="true" signature="72:460" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="128:458" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="254:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <marker date="1509542484000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1509542484000" expanded="true" signature="153:1674" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="188:1672" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="266:1666" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="438:1656" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="502:566" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="624:688" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="747:811" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1056:1192" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1252:1388" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1448:1584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <marker date="1509547063000" expanded="true" signature="61:98" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="100:718" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="186:408" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="247:399" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="501:711" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="562:702" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="722:2880" ph="&lt;table.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="748:2871" ph="&lt;tbody.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="760:981" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="824:971" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="857:971" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="880:961" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="986:2858" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1026:2858" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1041:2852" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1058:1159" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1172:2838" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1205:2838" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1236:2824" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1295:1406" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1427:2802" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1454:2096" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1501:2074" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1602:2043" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1730:2007" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2121:2802" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="2168:2780" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2254:2749" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2381:2713" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2882:2955" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/StudentAttendance.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="99" lean-forward="false" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1509538840000" expanded="true" signature="72:460" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="128:458" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="254:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <marker date="1509542484000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1509542484000" expanded="true" signature="153:1674" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="188:1672" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="266:1666" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="438:1656" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="502:566" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="624:688" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="747:811" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1056:1192" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1252:1388" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1448:1584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="206" lean-forward="false" selection-start-line="0" selection-start-column="206" selection-end-line="0" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/_ValidationScriptsPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="195" lean-forward="true" selection-start-line="0" selection-start-column="195" selection-end-line="0" selection-end-column="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/StudentAttendanceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1509538840000" expanded="true" signature="72:460" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="128:458" ph="{...}" />
+            <marker date="1509538840000" expanded="true" signature="254:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Migrations/20171101121823_InitialCreate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Migrations/20171101121823_InitialCreate.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Migrations/StudentAttendanceContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/StudentAttendance.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1509538026000" expanded="true" signature="34:161" ph="{...}" />
+            <marker date="1509538026000" expanded="true" signature="61:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="67" lean-forward="false" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/StudentsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="74" column="12" lean-forward="false" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="88" />
+          <folding>
+            <marker date="1509538225000" expanded="false" signature="6:239" ph="..." />
+            <marker date="1509538225000" expanded="true" signature="280:4404" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="331:4402" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="466:518" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="593:677" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="771:1120" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="809:872" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1012:1075" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1191:1238" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1248:1459" ph="/* POST: Students/Create ... */" />
+            <marker date="1509538225000" expanded="true" signature="1596:1860" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1642:1816" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1948:2279" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="1986:2049" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="2172:2235" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="2289:2500" ph="/* POST: Students/Edit/5 ... */" />
+            <marker date="1509538225000" expanded="true" signature="2643:3400" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="2687:2750" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="2787:3356" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="2821:2958" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3011:3286" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3081:3168" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3193:3268" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3492:3841" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3530:3593" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="3733:3796" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="4018:4273" ph="{...}" />
+            <marker date="1509538225000" expanded="true" signature="4317:4396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <marker date="1509469618000" expanded="false" signature="6:193" ph="..." />
+            <marker date="1509469618000" expanded="true" signature="222:1057" ph="{...}" />
+            <marker date="1509469618000" expanded="true" signature="249:1055" ph="{...}" />
+            <marker date="1509469618000" expanded="true" signature="302:874" ph="{...}" />
+            <marker date="1509469618000" expanded="true" signature="416:839" ph="{...}" />
+            <marker date="1509469618000" expanded="true" signature="505:592" ph="{...}" />
+            <marker date="1509469618000" expanded="true" signature="629:825" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <marker date="1509524022000" expanded="false" signature="6:327" ph="..." />
+            <marker date="1509524022000" expanded="true" signature="356:1606" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="383:1604" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="442:505" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="728:923" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="1111:1598" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="1158:1235" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="1252:1336" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="1405:1586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509524022000" expanded="true" signature="22:59" ph="@..." />
+            <marker date="1509524022000" expanded="true" signature="176:289" ph="@..." />
+            <marker date="1509524022000" expanded="true" signature="201:289" ph="{...}" />
+            <marker date="1509524022000" expanded="true" signature="208:287" ph="&lt;p.../&gt;" />
+            <marker date="1509524022000" expanded="true" signature="317:452" ph="&lt;p.../&gt;" />
+            <marker date="1509524022000" expanded="true" signature="453:843" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/SeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <marker date="1509542484000" expanded="false" signature="6:117" ph="..." />
+            <marker date="1509542484000" expanded="true" signature="153:1674" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="188:1672" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="266:1666" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="438:1656" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="502:566" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="624:688" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="747:811" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1056:1192" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1252:1388" ph="{...}" />
+            <marker date="1509542484000" expanded="true" signature="1448:1584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509468104000" expanded="true" signature="49:215" ph="{...}" />
+            <marker date="1509468104000" expanded="true" signature="83:213" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1509538225000" expanded="true" signature="41:77" ph="@..." />
+            <marker date="1509538225000" expanded="true" signature="118:753" ph="&lt;div.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="140:746" ph="&lt;div.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="171:735" ph="&lt;form.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="336:586" ph="&lt;div.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="599:719" ph="&lt;div.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="755:810" ph="&lt;div.../&gt;" />
+            <marker date="1509538225000" expanded="true" signature="812:899" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509538226000" expanded="true" signature="41:80" ph="@..." />
+            <marker date="1509538226000" expanded="true" signature="100:343" ph="&lt;div.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="142:336" ph="&lt;dl.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="177:249" ph="&lt;dt.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="258:326" ph="&lt;dd.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="344:460" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/Students/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <marker date="1509538226000" expanded="true" signature="54:91" ph="@..." />
+            <marker date="1509538226000" expanded="true" signature="109:159" ph="&lt;p.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="160:805" ph="&lt;table.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="186:360" ph="&lt;thead.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="202:347" ph="&lt;tr.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="223:311" ph="&lt;th.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="365:796" ph="&lt;tbody.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="373:783" ph="@..." />
+            <marker date="1509538226000" expanded="true" signature="402:783" ph="{...}" />
+            <marker date="1509538226000" expanded="true" signature="412:781" ph="&lt;tr.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="429:508" ph="&lt;td.../&gt;" />
+            <marker date="1509538226000" expanded="true" signature="521:767" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecord.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1509542414000" expanded="false" signature="6:65" ph="..." />
+            <marker date="1509542414000" expanded="true" signature="101:280" ph="{...}" />
+            <marker date="1509542414000" expanded="true" signature="134:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Models/AbsenceRecordTableViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1509545862000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1509545862000" expanded="true" signature="83:964" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="130:833" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="489:826" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="557:791" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="699:777" ph="{...}" />
+            <marker date="1509545862000" expanded="true" signature="873:962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Views/AbsenceRecords/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="41" column="43" lean-forward="false" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding>
+            <marker date="1509547063000" expanded="true" signature="61:98" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="100:718" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="186:408" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="247:399" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="501:711" ph="&lt;p.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="562:702" ph="&lt;a.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="722:2880" ph="&lt;table.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="748:2871" ph="&lt;tbody.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="760:981" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="824:971" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="857:971" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="880:961" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="986:2858" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1026:2858" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1041:2852" ph="&lt;tr.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1058:1159" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1172:2838" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1205:2838" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1236:2824" ph="&lt;td.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1295:1406" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1427:2802" ph="@..." />
+            <marker date="1509547063000" expanded="true" signature="1454:2096" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="1501:2074" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1602:2043" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="1730:2007" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2121:2802" ph="{...}" />
+            <marker date="1509547063000" expanded="true" signature="2168:2780" ph="&lt;div.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2254:2749" ph="&lt;form.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2381:2713" ph="&lt;button.../&gt;" />
+            <marker date="1509547063000" expanded="true" signature="2882:2955" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <marker date="1509468135000" expanded="false" signature="6:186" ph="..." />
+            <marker date="1509468135000" expanded="true" signature="227:843" ph="{...}" />
+            <marker date="1509468135000" expanded="true" signature="274:841" ph="{...}" />
+            <marker date="1509468135000" expanded="true" signature="317:364" ph="{...}" />
+            <marker date="1509468135000" expanded="true" signature="402:522" ph="{...}" />
+            <marker date="1509468135000" expanded="true" signature="562:666" ph="{...}" />
+            <marker date="1509468135000" expanded="true" signature="704:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentAttendance/Controllers/AbsenceRecordsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+          <folding>
+            <marker date="1509548273000" expanded="false" signature="6:294" ph="..." />
+            <marker date="1509548273000" expanded="true" signature="335:4381" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="392:4379" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="533:585" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="687:2595" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="781:920" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="937:1040" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1435:1688" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1548:1634" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="1770:2552" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2249:2363" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2432:2538" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2686:2758" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="2768:2985" ph="/* POST: AbsenceRecords/Create ... */" />
+            <marker date="1509548273000" expanded="true" signature="3124:3411" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3170:3349" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3526:3911" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3564:3627" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="3785:3848" ph="{...}" />
+            <marker date="1509548273000" expanded="true" signature="4094:4373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
